@@ -1,7 +1,11 @@
 {
   "name": "faq-api",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "server.js",
+  "type":"module",
+  "scripts": {
+    "server": "node ./server.js"
+  },
   "author": "joao",
   "license": "MIT",
   "dependencies": {
