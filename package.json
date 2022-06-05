@@ -1,0 +1,10 @@
+{
+  "name": "faq-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "joao",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
